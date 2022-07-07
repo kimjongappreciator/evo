@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/Highlighting/SweaWarningsMode/@EntryValue">ShowAndRun</s:String>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\5.0.0\ref\net5.0\System.ComponentModel.Annotations.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\packs\Microsoft.AspNetCore.App.Ref\5.0.0\ref\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Dyland\.nuget\packages\automapper\10.1.1\lib\netstandard2.0\AutoMapper.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=07a6696a_002Db089_002D4bc1_002D845f_002Dd6377c1b95cb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;GrupoWebBackend.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Project Location="D:\UPC\2022 1\EVOLUCIÓN DE SOFTWARE\TF\Back-end---AdoptMe-ya-\GrupoWebBackend.Tests" Presentation="&amp;lt;GrupoWebBackend.Tests&amp;gt;" /&gt;&#xD;
+    &lt;Project Location="D:\UPC\2022 1\EVOLUCIÓN DE SOFTWARE\TF\Back-end---AdoptMe-ya-\AdoptMeYa.Tests" Presentation="&amp;lt;AdoptMeYa.Tests&amp;gt;" /&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aff8138c_002D9f8e_002D4e0f_002Db6b2_002D27b683269f50/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;GrupoWebBackend.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Project Location="D:\UPC\2022 1\EVOLUCIÓN DE SOFTWARE\TF\Back-end---AdoptMe-ya-\GrupoWebBackend.Tests" Presentation="&amp;lt;GrupoWebBackend.Tests&amp;gt;" /&gt;&#xD;
+    &lt;Project Location="D:\UPC\2022 1\EVOLUCIÓN DE SOFTWARE\TF\Back-end---AdoptMe-ya-\AdoptMeYa.Tests" Presentation="&amp;lt;AdoptMeYa.Tests&amp;gt;" /&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>

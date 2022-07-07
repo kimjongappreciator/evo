@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "ljC3WScAR23XChEISheenTSrE+Cc6W1Fxwg9+qu3eMP0z7FkMDLVms4eTZ9kN34qlkZcBoQ53rfOBYm1xzGVzQ==",
+  "success": true,
+  "projectFilePath": "D:\\UPC\\2022 1\\EVOLUCIÓN DE SOFTWARE\\TF\\Back-end---AdoptMe-ya-\\GrupoWebBackend.Specflow.Tests\\GrupoWebBackend.Specflow.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\google.protobuf\\3.7.0\\google.protobuf.3.7.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\specflow\\3.9.22\\specflow.3.9.22.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\specflow.internal.json\\1.0.8\\specflow.internal.json.1.0.8.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\specflow.nunit\\3.9.22\\specflow.nunit.3.9.22.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\specflow.plus.livingdocplugin\\3.9.35\\specflow.plus.livingdocplugin.3.9.35.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.9.22\\specflow.tools.msbuild.generation.3.9.22.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
